@@ -10,6 +10,8 @@ UC Berkeley [Masters in Computational Social Science](https://macss.berkeley.edu
 
 [wdtmacss@berkeley.edu](mailto:wdtmacss@berkeley.edu)
 
+[github.com/ccs-ucb/CSS1A](https://github.com/ccs-ucb/CSS1A)
+
 ---
 
 This respository accompanies UC Berkeley [COMPSS Computational Social Science 1A](https://classes.berkeley.edu/content/2024-fall-compss-214a-001-lec-001). Lab notebooks are in the `notebooks/` directory.  
