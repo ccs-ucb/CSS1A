@@ -1,5 +1,5 @@
 <div style="background-color: #002676; padding: 20px;">
-<img src="https://macss.berkeley.edu/wp-content/uploads/2023/09/UCBMaCSS_Logo_2Color_Reverse_TaglineB.png" alt="MaCSS" width="300" height="200">
+<img src="https://macss.berkeley.edu/wp-content/uploads/2023/09/UCBMaCSS_Logo_2Color_Reverse_TaglineB.png" alt="MaCSS" width="300">
 </div>
 
 **Computational Social Science 1A**
